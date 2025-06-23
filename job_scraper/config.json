@@ -1,0 +1,14 @@
+{
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "vince@vincentdean.me",
+    "sender_password": "wssi xpce gcvt nqex",
+    "recipient_email": "vince@vincentdean.me"
+  },
+  "job_search": {
+    "default_keywords": ["python developer", "software engineer"],
+    "default_location": "Remote",
+    "default_salary_min": 80000
+  }
+}
